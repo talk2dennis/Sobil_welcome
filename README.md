@@ -1,6 +1,6 @@
 <h1 align="center"> DEV. SOBIL 💻💻 </h1>
  <div align="center" style="color: red;">
-  <img src="[https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS](https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil%F0%9F%91%8B;🖖🖖+++A Software+Engineer;A+Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;English+&+Arabic+Speaker)" alt="Headline" />
+  <img src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS](https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil%F0%9F%91%8B;🖖🖖+++A Software+Engineer;A+Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;English+&+Arabic+Speaker" alt="Headline" />
 </div>
 
 <div align="center">
